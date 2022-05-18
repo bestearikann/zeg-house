@@ -102,14 +102,14 @@ const Information = () => {
         </div>
         <img
           className="max-h-[500px] xl:max-h-full w-full xl:w-[450px] mb-3 md:mb-10 lg:mb-2"
-          src="/assets/zeg-images/zeg-1.JPG"
+          src="/assets/zeg-images/zeg-yeni-1.JPG"
           alt=""
         />
       </div>
       <div className="my-12 xl:my-2 flex xl:hidden flex-wrap items-center justify-around  ">
         <img
           className="max-h-[500px] xl:max-h-full w-full xl:w-[450px] mb-3 md:mb-10 lg:mb-2"
-          src="/assets/zeg-images/zeg-2.JPG"
+          src="/assets/zeg-images/zeg-yeni-2.jpg"
           alt=""
         />
         <div className="bg-[#F5F5F5] xl:max-w-[700px] space-y-4 md:space-y-7 p-5 sm:py-12">
@@ -144,7 +144,7 @@ const Information = () => {
       <div className=" my-1 lg:my-12 xl:my-2 flex flex-wrap items-center justify-center xl:space-x-28">
         <img
           className="w-full contain xl:max-h-full sm:w-[450px] mb-3 md:mb-10 lg:mb-2"
-          src="/assets/zeg-images/zeg-3.JPG"
+          src="/assets/zeg-images/zeg-yeni-2.JPG"
           alt=""
         />
         <div>
