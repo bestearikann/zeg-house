@@ -102,7 +102,7 @@ const AllProduct = () => {
       <div className=" my-1 lg:my-12 xl:my-2 flex flex-wrap items-center justify-center lg:space-x-20">
         <img
           className="w-full max-h-[500px] contain xl:max-h-full xl:w-[550px] mb-3 md:mb-10 lg:mb-2"
-          src="/assets/zeg-images/zeg-y4.JPG"
+          src="/assets/zeg-images/zeg-y3.JPG"
           alt=""
         />
         <div className=" xl:max-w-[600px] space-y-4 md:space-y-7 p-5 sm:py-12">
