@@ -234,7 +234,7 @@ const AllProduct = () => {
         <div className="xl:max-w-[500px] space-y-4 md:space-y-7 p-5 sm:py-12">
            <div className="flex items-end justify-center xl:justify-start">
           <hr className=" sm:block hidden w-5 md:w-36 border border-[#978148] rounded-lg m-1" />
-          <p className="md:text-3xl font-semibold text-xl">NEDEN ZEG HOUSE?</p>
+          <p className="md:text-3xl font-semibold text-xl">NEDEN ZEG HOUSE ?</p>
           </div>
           <p className="tracking-wider">
           Zeg House olarak evlerin dış ve iç dekorasyonunda  yüksek kaliteli yapı malzemeleri sunuyoruz.
